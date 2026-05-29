@@ -37,7 +37,7 @@ This tool is in active development. If you're piloting this, please share feedba
 - Navigation and UX across desktop and mobile views
 - Any results or scenarios that feel missing or incomplete
 
-Send feedback to: cwagner@billiontoone.com
+Send feedback to: cwagner@billiontoone.com - please!
 
 ---
 
